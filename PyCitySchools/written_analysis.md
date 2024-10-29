@@ -1,4 +1,4 @@
-Written Analysis:
+# Written Analysis
 
 In this report is a comprehensive analysis of a school district's information and testing scores. This report includes a summary of the average math and reading scores per school and the percentage of students passing per subject. A categorization of schools based on best and worst performances, and a comparison of spending per capita with test scores. 
 
